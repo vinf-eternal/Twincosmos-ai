@@ -185,7 +185,9 @@ silicon-life | offline-ai | tiny-ai | chinese-philosophy
 - 以结构化、状态流、九宫共振为底层原生智能范式
 
 ---
-
+ ## 合作机会
+ 
+ 明确合作方向（如商业落地、技术定制、生态对接、融资等）、对接方式（邮箱wayne777@email.cn / 微信qmzywe666 ）。
 ## 致谢
 
 感谢每一位参与测试和反馈的朋友。
