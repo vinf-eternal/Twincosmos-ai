@@ -168,9 +168,9 @@ silicon-life | offline-ai | tiny-ai | chinese-philosophy
 
 **CC BY-NC-ND 4.0** - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
 
-- ✅ 可分享、可改编
-- ❌ 禁止商用
-- ✅ 衍生作品必须同协议开源
+- 署名（BY）
+- 非商业（NC）
+- 禁止演绎（ND）：不得修改、改编、创作衍生作品
 
 ---
 
